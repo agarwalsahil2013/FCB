@@ -1,0 +1,649 @@
+zip,city,state_id,state_name,county_name
+73002,Alex,OK,Oklahoma,Grady
+73003,Edmond,OK,Oklahoma,Oklahoma
+73004,Amber,OK,Oklahoma,Grady
+73005,Anadarko,OK,Oklahoma,Caddo
+73006,Apache,OK,Oklahoma,Caddo
+73007,Arcadia,OK,Oklahoma,Oklahoma
+73008,Bethany,OK,Oklahoma,Oklahoma
+73009,Binger,OK,Oklahoma,Caddo
+73010,Blanchard,OK,Oklahoma,McClain
+73011,Bradley,OK,Oklahoma,Grady
+73012,Edmond,OK,Oklahoma,Oklahoma
+73013,Edmond,OK,Oklahoma,Oklahoma
+73014,Calumet,OK,Oklahoma,Canadian
+73015,Carnegie,OK,Oklahoma,Caddo
+73016,Cashion,OK,Oklahoma,Kingfisher
+73017,Cement,OK,Oklahoma,Caddo
+73018,Chickasha,OK,Oklahoma,Grady
+73019,Norman,OK,Oklahoma,Cleveland
+73020,Choctaw,OK,Oklahoma,Oklahoma
+73021,Colony,OK,Oklahoma,Washita
+73024,Corn,OK,Oklahoma,Washita
+73025,Edmond,OK,Oklahoma,Oklahoma
+73026,Norman,OK,Oklahoma,Cleveland
+73027,Coyle,OK,Oklahoma,Logan
+73028,Crescent,OK,Oklahoma,Logan
+73029,Cyril,OK,Oklahoma,Caddo
+73030,Davis,OK,Oklahoma,Murray
+73032,Dougherty,OK,Oklahoma,Murray
+73033,Eakly,OK,Oklahoma,Caddo
+73034,Edmond,OK,Oklahoma,Oklahoma
+73036,El Reno,OK,Oklahoma,Canadian
+73038,Fort Cobb,OK,Oklahoma,Caddo
+73040,Geary,OK,Oklahoma,Blaine
+73041,Gotebo,OK,Oklahoma,Kiowa
+73042,Gracemont,OK,Oklahoma,Caddo
+73043,Greenfield,OK,Oklahoma,Blaine
+73044,Guthrie,OK,Oklahoma,Logan
+73045,Harrah,OK,Oklahoma,Oklahoma
+73047,Hinton,OK,Oklahoma,Caddo
+73048,Hydro,OK,Oklahoma,Custer
+73049,Jones,OK,Oklahoma,Oklahoma
+73050,Langston,OK,Oklahoma,Logan
+73051,Lexington,OK,Oklahoma,Cleveland
+73052,Lindsay,OK,Oklahoma,Garvin
+73053,Lookeba,OK,Oklahoma,Caddo
+73054,Luther,OK,Oklahoma,Oklahoma
+73055,Marlow,OK,Oklahoma,Stephens
+73056,Marshall,OK,Oklahoma,Logan
+73057,Maysville,OK,Oklahoma,Garvin
+73058,Meridian,OK,Oklahoma,Logan
+73059,Minco,OK,Oklahoma,Grady
+73061,Morrison,OK,Oklahoma,Noble
+73062,Mountain View,OK,Oklahoma,Kiowa
+73063,Mulhall,OK,Oklahoma,Logan
+73064,Mustang,OK,Oklahoma,Canadian
+73065,Newcastle,OK,Oklahoma,McClain
+73066,Nicoma Park,OK,Oklahoma,Oklahoma
+73067,Ninnekah,OK,Oklahoma,Grady
+73068,Noble,OK,Oklahoma,Cleveland
+73069,Norman,OK,Oklahoma,Cleveland
+73071,Norman,OK,Oklahoma,Cleveland
+73072,Norman,OK,Oklahoma,Cleveland
+73073,Orlando,OK,Oklahoma,Logan
+73074,Paoli,OK,Oklahoma,Garvin
+73075,Pauls Valley,OK,Oklahoma,Garvin
+73077,Perry,OK,Oklahoma,Noble
+73078,Piedmont,OK,Oklahoma,Canadian
+73079,Pocasset,OK,Oklahoma,Grady
+73080,Purcell,OK,Oklahoma,McClain
+73082,Rush Springs,OK,Oklahoma,Grady
+73084,Spencer,OK,Oklahoma,Oklahoma
+73086,Sulphur,OK,Oklahoma,Murray
+73089,Tuttle,OK,Oklahoma,Grady
+73090,Union City,OK,Oklahoma,Canadian
+73092,Verden,OK,Oklahoma,Grady
+73093,Washington,OK,Oklahoma,McClain
+73095,Wayne,OK,Oklahoma,McClain
+73096,Weatherford,OK,Oklahoma,Custer
+73097,Wheatland,OK,Oklahoma,Oklahoma
+73098,Wynnewood,OK,Oklahoma,Garvin
+73099,Yukon,OK,Oklahoma,Canadian
+73102,Oklahoma City,OK,Oklahoma,Oklahoma
+73103,Oklahoma City,OK,Oklahoma,Oklahoma
+73104,Oklahoma City,OK,Oklahoma,Oklahoma
+73105,Oklahoma City,OK,Oklahoma,Oklahoma
+73106,Oklahoma City,OK,Oklahoma,Oklahoma
+73107,Oklahoma City,OK,Oklahoma,Oklahoma
+73108,Oklahoma City,OK,Oklahoma,Oklahoma
+73109,Oklahoma City,OK,Oklahoma,Oklahoma
+73110,Oklahoma City,OK,Oklahoma,Oklahoma
+73111,Oklahoma City,OK,Oklahoma,Oklahoma
+73112,Oklahoma City,OK,Oklahoma,Oklahoma
+73114,Oklahoma City,OK,Oklahoma,Oklahoma
+73115,Oklahoma City,OK,Oklahoma,Oklahoma
+73116,Oklahoma City,OK,Oklahoma,Oklahoma
+73117,Oklahoma City,OK,Oklahoma,Oklahoma
+73118,Oklahoma City,OK,Oklahoma,Oklahoma
+73119,Oklahoma City,OK,Oklahoma,Oklahoma
+73120,Oklahoma City,OK,Oklahoma,Oklahoma
+73121,Oklahoma City,OK,Oklahoma,Oklahoma
+73122,Oklahoma City,OK,Oklahoma,Oklahoma
+73127,Oklahoma City,OK,Oklahoma,Oklahoma
+73128,Oklahoma City,OK,Oklahoma,Canadian
+73129,Oklahoma City,OK,Oklahoma,Oklahoma
+73130,Oklahoma City,OK,Oklahoma,Oklahoma
+73131,Oklahoma City,OK,Oklahoma,Oklahoma
+73132,Oklahoma City,OK,Oklahoma,Oklahoma
+73134,Oklahoma City,OK,Oklahoma,Oklahoma
+73135,Oklahoma City,OK,Oklahoma,Oklahoma
+73139,Oklahoma City,OK,Oklahoma,Oklahoma
+73141,Oklahoma City,OK,Oklahoma,Oklahoma
+73142,Oklahoma City,OK,Oklahoma,Oklahoma
+73145,Oklahoma City,OK,Oklahoma,Oklahoma
+73149,Oklahoma City,OK,Oklahoma,Oklahoma
+73150,Oklahoma City,OK,Oklahoma,Oklahoma
+73151,Oklahoma City,OK,Oklahoma,Oklahoma
+73159,Oklahoma City,OK,Oklahoma,Oklahoma
+73160,Oklahoma City,OK,Oklahoma,Cleveland
+73162,Oklahoma City,OK,Oklahoma,Oklahoma
+73165,Oklahoma City,OK,Oklahoma,Cleveland
+73169,Oklahoma City,OK,Oklahoma,Oklahoma
+73170,Oklahoma City,OK,Oklahoma,Cleveland
+73173,Oklahoma City,OK,Oklahoma,Cleveland
+73179,Oklahoma City,OK,Oklahoma,Oklahoma
+73401,Ardmore,OK,Oklahoma,Carter
+73425,Countyline,OK,Oklahoma,Carter
+73430,Burneyville,OK,Oklahoma,Love
+73432,Coleman,OK,Oklahoma,Johnston
+73433,Elmore City,OK,Oklahoma,Garvin
+73434,Foster,OK,Oklahoma,Stephens
+73437,Graham,OK,Oklahoma,Carter
+73438,Healdton,OK,Oklahoma,Carter
+73439,Kingston,OK,Oklahoma,Marshall
+73440,Lebanon,OK,Oklahoma,Marshall
+73441,Leon,OK,Oklahoma,Love
+73442,Loco,OK,Oklahoma,Stephens
+73443,Lone Grove,OK,Oklahoma,Carter
+73444,Hennepin,OK,Oklahoma,Murray
+73446,Madill,OK,Oklahoma,Marshall
+73447,Mannsville,OK,Oklahoma,Johnston
+73448,Marietta,OK,Oklahoma,Love
+73449,Mead,OK,Oklahoma,Bryan
+73450,Milburn,OK,Oklahoma,Johnston
+73453,Overbrook,OK,Oklahoma,Love
+73455,Ravia,OK,Oklahoma,Johnston
+73456,Ringling,OK,Oklahoma,Jefferson
+73458,Springer,OK,Oklahoma,Carter
+73459,Thackerville,OK,Oklahoma,Love
+73460,Tishomingo,OK,Oklahoma,Johnston
+73461,Wapanucka,OK,Oklahoma,Johnston
+73463,Wilson,OK,Oklahoma,Carter
+73481,Ratliff City,OK,Oklahoma,Carter
+73487,Tatums,OK,Oklahoma,Carter
+73491,Velma,OK,Oklahoma,Stephens
+73501,Lawton,OK,Oklahoma,Comanche
+73503,Fort Sill,OK,Oklahoma,Comanche
+73505,Lawton,OK,Oklahoma,Comanche
+73507,Lawton,OK,Oklahoma,Comanche
+73520,Addington,OK,Oklahoma,Jefferson
+73521,Altus,OK,Oklahoma,Jackson
+73526,Blair,OK,Oklahoma,Jackson
+73527,Cache,OK,Oklahoma,Comanche
+73528,Chattanooga,OK,Oklahoma,Comanche
+73529,Comanche,OK,Oklahoma,Stephens
+73530,Davidson,OK,Oklahoma,Tillman
+73531,Devol,OK,Oklahoma,Cotton
+73532,Duke,OK,Oklahoma,Jackson
+73533,Duncan,OK,Oklahoma,Stephens
+73537,Eldorado,OK,Oklahoma,Jackson
+73538,Elgin,OK,Oklahoma,Comanche
+73539,Elmer,OK,Oklahoma,Jackson
+73540,Faxon,OK,Oklahoma,Comanche
+73541,Fletcher,OK,Oklahoma,Comanche
+73542,Frederick,OK,Oklahoma,Tillman
+73543,Geronimo,OK,Oklahoma,Comanche
+73544,Gould,OK,Oklahoma,Harmon
+73546,Grandfield,OK,Oklahoma,Tillman
+73547,Granite,OK,Oklahoma,Greer
+73548,Hastings,OK,Oklahoma,Cotton
+73549,Headrick,OK,Oklahoma,Jackson
+73550,Hollis,OK,Oklahoma,Harmon
+73551,Hollister,OK,Oklahoma,Tillman
+73552,Indiahoma,OK,Oklahoma,Comanche
+73553,Loveland,OK,Oklahoma,Tillman
+73554,Mangum,OK,Oklahoma,Greer
+73555,Manitou,OK,Oklahoma,Tillman
+73556,Martha,OK,Oklahoma,Jackson
+73557,Medicine Park,OK,Oklahoma,Comanche
+73559,Mountain Park,OK,Oklahoma,Kiowa
+73560,Olustee,OK,Oklahoma,Jackson
+73562,Randlett,OK,Oklahoma,Cotton
+73564,Roosevelt,OK,Oklahoma,Kiowa
+73565,Ryan,OK,Oklahoma,Jefferson
+73566,Snyder,OK,Oklahoma,Kiowa
+73567,Sterling,OK,Oklahoma,Comanche
+73568,Temple,OK,Oklahoma,Cotton
+73569,Terral,OK,Oklahoma,Jefferson
+73570,Tipton,OK,Oklahoma,Tillman
+73571,Vinson,OK,Oklahoma,Harmon
+73572,Walters,OK,Oklahoma,Cotton
+73573,Waurika,OK,Oklahoma,Jefferson
+73601,Clinton,OK,Oklahoma,Custer
+73620,Arapaho,OK,Oklahoma,Custer
+73622,Bessie,OK,Oklahoma,Washita
+73624,Burns Flat,OK,Oklahoma,Washita
+73625,Butler,OK,Oklahoma,Custer
+73626,Canute,OK,Oklahoma,Washita
+73627,Carter,OK,Oklahoma,Beckham
+73628,Cheyenne,OK,Oklahoma,Roger Mills
+73632,Cordell,OK,Oklahoma,Washita
+73638,Crawford,OK,Oklahoma,Roger Mills
+73639,Custer City,OK,Oklahoma,Custer
+73641,Dill City,OK,Oklahoma,Washita
+73642,Durham,OK,Oklahoma,Roger Mills
+73644,Elk City,OK,Oklahoma,Beckham
+73645,Erick,OK,Oklahoma,Beckham
+73646,Fay,OK,Oklahoma,Blaine
+73647,Foss,OK,Oklahoma,Washita
+73650,Hammon,OK,Oklahoma,Roger Mills
+73651,Hobart,OK,Oklahoma,Kiowa
+73654,Leedey,OK,Oklahoma,Custer
+73655,Lone Wolf,OK,Oklahoma,Kiowa
+73658,Oakwood,OK,Oklahoma,Dewey
+73659,Putnam,OK,Oklahoma,Dewey
+73660,Reydon,OK,Oklahoma,Roger Mills
+73661,Rocky,OK,Oklahoma,Washita
+73662,Sayre,OK,Oklahoma,Beckham
+73663,Seiling,OK,Oklahoma,Dewey
+73664,Sentinel,OK,Oklahoma,Washita
+73666,Sweetwater,OK,Oklahoma,Roger Mills
+73667,Taloga,OK,Oklahoma,Dewey
+73669,Thomas,OK,Oklahoma,Custer
+73673,Willow,OK,Oklahoma,Greer
+73701,Enid,OK,Oklahoma,Garfield
+73703,Enid,OK,Oklahoma,Garfield
+73705,Enid,OK,Oklahoma,Garfield
+73716,Aline,OK,Oklahoma,Alfalfa
+73717,Alva,OK,Oklahoma,Woods
+73718,Ames,OK,Oklahoma,Major
+73719,Amorita,OK,Oklahoma,Alfalfa
+73720,Bison,OK,Oklahoma,Garfield
+73722,Burlington,OK,Oklahoma,Alfalfa
+73724,Canton,OK,Oklahoma,Blaine
+73726,Carmen,OK,Oklahoma,Alfalfa
+73727,Carrier,OK,Oklahoma,Garfield
+73728,Cherokee,OK,Oklahoma,Alfalfa
+73729,Cleo Springs,OK,Oklahoma,Major
+73730,Covington,OK,Oklahoma,Garfield
+73731,Dacoma,OK,Oklahoma,Woods
+73733,Douglas,OK,Oklahoma,Garfield
+73734,Dover,OK,Oklahoma,Kingfisher
+73735,Drummond,OK,Oklahoma,Garfield
+73736,Fairmont,OK,Oklahoma,Garfield
+73737,Fairview,OK,Oklahoma,Major
+73738,Garber,OK,Oklahoma,Garfield
+73739,Goltry,OK,Oklahoma,Alfalfa
+73741,Helena,OK,Oklahoma,Alfalfa
+73742,Hennessey,OK,Oklahoma,Kingfisher
+73743,Hillsdale,OK,Oklahoma,Garfield
+73744,Hitchcock,OK,Oklahoma,Blaine
+73746,Hopeton,OK,Oklahoma,Woods
+73747,Isabella,OK,Oklahoma,Major
+73749,Jet,OK,Oklahoma,Alfalfa
+73750,Kingfisher,OK,Oklahoma,Kingfisher
+73753,Kremlin,OK,Oklahoma,Garfield
+73754,Lahoma,OK,Oklahoma,Garfield
+73755,Longdale,OK,Oklahoma,Blaine
+73756,Loyal,OK,Oklahoma,Kingfisher
+73757,Lucien,OK,Oklahoma,Noble
+73758,Manchester,OK,Oklahoma,Grant
+73759,Medford,OK,Oklahoma,Grant
+73760,Meno,OK,Oklahoma,Major
+73761,Nash,OK,Oklahoma,Grant
+73762,Okarche,OK,Oklahoma,Kingfisher
+73763,Okeene,OK,Oklahoma,Blaine
+73764,Omega,OK,Oklahoma,Kingfisher
+73766,Pond Creek,OK,Oklahoma,Grant
+73768,Ringwood,OK,Oklahoma,Major
+73771,Wakita,OK,Oklahoma,Grant
+73772,Watonga,OK,Oklahoma,Blaine
+73773,Waukomis,OK,Oklahoma,Garfield
+73801,Woodward,OK,Oklahoma,Woodward
+73832,Arnett,OK,Oklahoma,Ellis
+73834,Buffalo,OK,Oklahoma,Harper
+73835,Camargo,OK,Oklahoma,Dewey
+73838,Chester,OK,Oklahoma,Major
+73840,Fargo,OK,Oklahoma,Ellis
+73841,Fort Supply,OK,Oklahoma,Woodward
+73842,Freedom,OK,Oklahoma,Woodward
+73843,Gage,OK,Oklahoma,Ellis
+73844,Gate,OK,Oklahoma,Beaver
+73848,Laverne,OK,Oklahoma,Harper
+73851,May,OK,Oklahoma,Harper
+73852,Mooreland,OK,Oklahoma,Woodward
+73853,Mutual,OK,Oklahoma,Woodward
+73855,Rosston,OK,Oklahoma,Harper
+73857,Sharon,OK,Oklahoma,Woodward
+73858,Shattuck,OK,Oklahoma,Ellis
+73859,Vici,OK,Oklahoma,Dewey
+73860,Waynoka,OK,Oklahoma,Woods
+73901,Adams,OK,Oklahoma,Texas
+73931,Balko,OK,Oklahoma,Beaver
+73932,Beaver,OK,Oklahoma,Beaver
+73933,Boise City,OK,Oklahoma,Cimarron
+73937,Felt,OK,Oklahoma,Cimarron
+73938,Forgan,OK,Oklahoma,Beaver
+73939,Goodwell,OK,Oklahoma,Texas
+73942,Guymon,OK,Oklahoma,Texas
+73944,Hardesty,OK,Oklahoma,Texas
+73945,Hooker,OK,Oklahoma,Texas
+73946,Kenton,OK,Oklahoma,Cimarron
+73947,Keyes,OK,Oklahoma,Cimarron
+73949,Texhoma,OK,Oklahoma,Texas
+73950,Turpin,OK,Oklahoma,Beaver
+73951,Tyrone,OK,Oklahoma,Texas
+74001,Avant,OK,Oklahoma,Osage
+74002,Barnsdall,OK,Oklahoma,Osage
+74003,Bartlesville,OK,Oklahoma,Washington
+74006,Bartlesville,OK,Oklahoma,Washington
+74008,Bixby,OK,Oklahoma,Tulsa
+74010,Bristow,OK,Oklahoma,Creek
+74011,Broken Arrow,OK,Oklahoma,Tulsa
+74012,Broken Arrow,OK,Oklahoma,Tulsa
+74014,Broken Arrow,OK,Oklahoma,Wagoner
+74015,Catoosa,OK,Oklahoma,Rogers
+74016,Chelsea,OK,Oklahoma,Rogers
+74017,Claremore,OK,Oklahoma,Rogers
+74019,Claremore,OK,Oklahoma,Rogers
+74020,Cleveland,OK,Oklahoma,Pawnee
+74021,Collinsville,OK,Oklahoma,Tulsa
+74022,Copan,OK,Oklahoma,Washington
+74023,Cushing,OK,Oklahoma,Payne
+74026,Davenport,OK,Oklahoma,Lincoln
+74027,Delaware,OK,Oklahoma,Nowata
+74028,Depew,OK,Oklahoma,Creek
+74029,Dewey,OK,Oklahoma,Washington
+74030,Drumright,OK,Oklahoma,Creek
+74032,Glencoe,OK,Oklahoma,Payne
+74033,Glenpool,OK,Oklahoma,Tulsa
+74034,Hallett,OK,Oklahoma,Pawnee
+74035,Hominy,OK,Oklahoma,Osage
+74036,Inola,OK,Oklahoma,Rogers
+74037,Jenks,OK,Oklahoma,Tulsa
+74038,Jennings,OK,Oklahoma,Pawnee
+74039,Kellyville,OK,Oklahoma,Creek
+74041,Kiefer,OK,Oklahoma,Creek
+74042,Lenapah,OK,Oklahoma,Nowata
+74044,Mannford,OK,Oklahoma,Creek
+74045,Maramec,OK,Oklahoma,Pawnee
+74046,Milfay,OK,Oklahoma,Creek
+74047,Mounds,OK,Oklahoma,Okmulgee
+74048,Nowata,OK,Oklahoma,Nowata
+74050,Oakhurst,OK,Oklahoma,Creek
+74051,Ochelata,OK,Oklahoma,Washington
+74052,Oilton,OK,Oklahoma,Creek
+74053,Oologah,OK,Oklahoma,Rogers
+74054,Osage,OK,Oklahoma,Osage
+74055,Owasso,OK,Oklahoma,Tulsa
+74056,Pawhuska,OK,Oklahoma,Osage
+74058,Pawnee,OK,Oklahoma,Pawnee
+74059,Perkins,OK,Oklahoma,Payne
+74060,Prue,OK,Oklahoma,Osage
+74061,Ramona,OK,Oklahoma,Washington
+74062,Ripley,OK,Oklahoma,Payne
+74063,Sand Springs,OK,Oklahoma,Tulsa
+74066,Sapulpa,OK,Oklahoma,Creek
+74068,Shamrock,OK,Oklahoma,Creek
+74070,Skiatook,OK,Oklahoma,Osage
+74071,Slick,OK,Oklahoma,Creek
+74072,S Coffeyville,OK,Oklahoma,Nowata
+74073,Sperry,OK,Oklahoma,Tulsa
+74074,Stillwater,OK,Oklahoma,Payne
+74075,Stillwater,OK,Oklahoma,Payne
+74078,Stillwater,OK,Oklahoma,Payne
+74079,Stroud,OK,Oklahoma,Lincoln
+74080,Talala,OK,Oklahoma,Rogers
+74081,Terlton,OK,Oklahoma,Pawnee
+74082,Vera,OK,Oklahoma,Washington
+74083,Wann,OK,Oklahoma,Nowata
+74084,Wynona,OK,Oklahoma,Osage
+74085,Yale,OK,Oklahoma,Payne
+74103,Tulsa,OK,Oklahoma,Tulsa
+74104,Tulsa,OK,Oklahoma,Tulsa
+74105,Tulsa,OK,Oklahoma,Tulsa
+74106,Tulsa,OK,Oklahoma,Tulsa
+74107,Tulsa,OK,Oklahoma,Tulsa
+74108,Tulsa,OK,Oklahoma,Tulsa
+74110,Tulsa,OK,Oklahoma,Tulsa
+74112,Tulsa,OK,Oklahoma,Tulsa
+74114,Tulsa,OK,Oklahoma,Tulsa
+74115,Tulsa,OK,Oklahoma,Tulsa
+74116,Tulsa,OK,Oklahoma,Tulsa
+74117,Tulsa,OK,Oklahoma,Tulsa
+74119,Tulsa,OK,Oklahoma,Tulsa
+74120,Tulsa,OK,Oklahoma,Tulsa
+74126,Tulsa,OK,Oklahoma,Tulsa
+74127,Tulsa,OK,Oklahoma,Tulsa
+74128,Tulsa,OK,Oklahoma,Tulsa
+74129,Tulsa,OK,Oklahoma,Tulsa
+74130,Tulsa,OK,Oklahoma,Tulsa
+74131,Tulsa,OK,Oklahoma,Creek
+74132,Tulsa,OK,Oklahoma,Tulsa
+74133,Tulsa,OK,Oklahoma,Tulsa
+74134,Tulsa,OK,Oklahoma,Tulsa
+74135,Tulsa,OK,Oklahoma,Tulsa
+74136,Tulsa,OK,Oklahoma,Tulsa
+74137,Tulsa,OK,Oklahoma,Tulsa
+74145,Tulsa,OK,Oklahoma,Tulsa
+74146,Tulsa,OK,Oklahoma,Tulsa
+74301,Vinita,OK,Oklahoma,Craig
+74330,Adair,OK,Oklahoma,Mayes
+74331,Afton,OK,Oklahoma,Delaware
+74332,Big Cabin,OK,Oklahoma,Craig
+74333,Bluejacket,OK,Oklahoma,Craig
+74337,Chouteau,OK,Oklahoma,Mayes
+74338,Colcord,OK,Oklahoma,Delaware
+74339,Commerce,OK,Oklahoma,Ottawa
+74340,Disney,OK,Oklahoma,Mayes
+74342,Eucha,OK,Oklahoma,Delaware
+74343,Fairland,OK,Oklahoma,Ottawa
+74344,Grove,OK,Oklahoma,Delaware
+74346,Jay,OK,Oklahoma,Delaware
+74347,Kansas,OK,Oklahoma,Delaware
+74349,Ketchum,OK,Oklahoma,Craig
+74350,Langley,OK,Oklahoma,Mayes
+74352,Locust Grove,OK,Oklahoma,Mayes
+74354,Miami,OK,Oklahoma,Ottawa
+74358,North Miami,OK,Oklahoma,Ottawa
+74359,Oaks,OK,Oklahoma,Delaware
+74360,Picher,OK,Oklahoma,Ottawa
+74361,Pryor,OK,Oklahoma,Mayes
+74363,Quapaw,OK,Oklahoma,Ottawa
+74364,Rose,OK,Oklahoma,Delaware
+74365,Salina,OK,Oklahoma,Mayes
+74366,Spavinaw,OK,Oklahoma,Mayes
+74367,Strang,OK,Oklahoma,Mayes
+74368,Twin Oaks,OK,Oklahoma,Delaware
+74369,Welch,OK,Oklahoma,Craig
+74370,Wyandotte,OK,Oklahoma,Ottawa
+74401,Muskogee,OK,Oklahoma,Muskogee
+74403,Muskogee,OK,Oklahoma,Muskogee
+74421,Beggs,OK,Oklahoma,Okmulgee
+74422,Boynton,OK,Oklahoma,Muskogee
+74423,Braggs,OK,Oklahoma,Muskogee
+74425,Canadian,OK,Oklahoma,Pittsburg
+74426,Checotah,OK,Oklahoma,McIntosh
+74427,Cookson,OK,Oklahoma,Cherokee
+74428,Council Hill,OK,Oklahoma,McIntosh
+74429,Coweta,OK,Oklahoma,Wagoner
+74430,Crowder,OK,Oklahoma,Pittsburg
+74431,Dewar,OK,Oklahoma,Okmulgee
+74432,Eufaula,OK,Oklahoma,McIntosh
+74434,Fort Gibson,OK,Oklahoma,Wagoner
+74435,Gore,OK,Oklahoma,Sequoyah
+74436,Haskell,OK,Oklahoma,Muskogee
+74437,Henryetta,OK,Oklahoma,Okmulgee
+74438,Hitchita,OK,Oklahoma,McIntosh
+74441,Hulbert,OK,Oklahoma,Cherokee
+74442,Indianola,OK,Oklahoma,Pittsburg
+74445,Morris,OK,Oklahoma,Okmulgee
+74446,Okay,OK,Oklahoma,Wagoner
+74447,Okmulgee,OK,Oklahoma,Okmulgee
+74450,Oktaha,OK,Oklahoma,Muskogee
+74451,Park Hill,OK,Oklahoma,Cherokee
+74452,Peggs,OK,Oklahoma,Cherokee
+74454,Porter,OK,Oklahoma,Wagoner
+74455,Porum,OK,Oklahoma,Muskogee
+74456,Preston,OK,Oklahoma,Okmulgee
+74457,Proctor,OK,Oklahoma,Adair
+74458,Redbird,OK,Oklahoma,Wagoner
+74459,Rentiesville,OK,Oklahoma,McIntosh
+74460,Schulter,OK,Oklahoma,Okmulgee
+74462,Stigler,OK,Oklahoma,Haskell
+74463,Taft,OK,Oklahoma,Muskogee
+74464,Tahlequah,OK,Oklahoma,Cherokee
+74467,Wagoner,OK,Oklahoma,Wagoner
+74468,Wainwright,OK,Oklahoma,Muskogee
+74469,Warner,OK,Oklahoma,Muskogee
+74470,Webbers Falls,OK,Oklahoma,Muskogee
+74471,Welling,OK,Oklahoma,Cherokee
+74472,Whitefield,OK,Oklahoma,Haskell
+74477,Wagoner,OK,Oklahoma,Wagoner
+74501,Mcalester,OK,Oklahoma,Pittsburg
+74521,Albion,OK,Oklahoma,Pushmataha
+74522,Alderson,OK,Oklahoma,Pittsburg
+74523,Antlers,OK,Oklahoma,Pushmataha
+74525,Atoka,OK,Oklahoma,Atoka
+74528,Blanco,OK,Oklahoma,Pittsburg
+74530,Bromide,OK,Oklahoma,Johnston
+74531,Calvin,OK,Oklahoma,Hughes
+74533,Caney,OK,Oklahoma,Atoka
+74534,Centrahoma,OK,Oklahoma,Coal
+74535,Clarita,OK,Oklahoma,Coal
+74536,Clayton,OK,Oklahoma,Pushmataha
+74538,Coalgate,OK,Oklahoma,Coal
+74540,Daisy,OK,Oklahoma,Atoka
+74543,Finley,OK,Oklahoma,Pushmataha
+74546,Haileyville,OK,Oklahoma,Pittsburg
+74547,Hartshorne,OK,Oklahoma,Pittsburg
+74549,Honobia,OK,Oklahoma,Pushmataha
+74552,Kinta,OK,Oklahoma,Haskell
+74553,Kiowa,OK,Oklahoma,Pittsburg
+74554,Krebs,OK,Oklahoma,Pittsburg
+74555,Lane,OK,Oklahoma,Atoka
+74556,Lehigh,OK,Oklahoma,Coal
+74557,Moyers,OK,Oklahoma,Pushmataha
+74558,Nashoba,OK,Oklahoma,Pushmataha
+74560,Pittsburg,OK,Oklahoma,Pittsburg
+74561,Quinton,OK,Oklahoma,Pittsburg
+74562,Rattan,OK,Oklahoma,Pushmataha
+74563,Red Oak,OK,Oklahoma,Latimer
+74565,Savanna,OK,Oklahoma,Pittsburg
+74567,Snow,OK,Oklahoma,Pushmataha
+74569,Stringtown,OK,Oklahoma,Atoka
+74570,Stuart,OK,Oklahoma,Hughes
+74571,Talihina,OK,Oklahoma,Le Flore
+74572,Tupelo,OK,Oklahoma,Coal
+74574,Tuskahoma,OK,Oklahoma,Pushmataha
+74576,Wardville,OK,Oklahoma,Atoka
+74577,Whitesboro,OK,Oklahoma,Le Flore
+74578,Wilburton,OK,Oklahoma,Latimer
+74601,Ponca City,OK,Oklahoma,Kay
+74604,Ponca City,OK,Oklahoma,Kay
+74630,Billings,OK,Oklahoma,Noble
+74631,Blackwell,OK,Oklahoma,Kay
+74632,Braman,OK,Oklahoma,Kay
+74633,Burbank,OK,Oklahoma,Osage
+74636,Deer Creek,OK,Oklahoma,Grant
+74637,Fairfax,OK,Oklahoma,Osage
+74640,Hunter,OK,Oklahoma,Garfield
+74641,Kaw City,OK,Oklahoma,Kay
+74643,Lamont,OK,Oklahoma,Grant
+74644,Marland,OK,Oklahoma,Noble
+74646,Nardin,OK,Oklahoma,Kay
+74647,Newkirk,OK,Oklahoma,Kay
+74650,Ralston,OK,Oklahoma,Pawnee
+74651,Red Rock,OK,Oklahoma,Noble
+74652,Shidler,OK,Oklahoma,Osage
+74653,Tonkawa,OK,Oklahoma,Kay
+74701,Durant,OK,Oklahoma,Bryan
+74720,Achille,OK,Oklahoma,Bryan
+74722,Battiest,OK,Oklahoma,McCurtain
+74723,Bennington,OK,Oklahoma,Bryan
+74724,Bethel,OK,Oklahoma,McCurtain
+74726,Bokchito,OK,Oklahoma,Bryan
+74727,Boswell,OK,Oklahoma,Choctaw
+74728,Broken Bow,OK,Oklahoma,McCurtain
+74729,Caddo,OK,Oklahoma,Bryan
+74730,Calera,OK,Oklahoma,Bryan
+74731,Cartwright,OK,Oklahoma,Bryan
+74733,Colbert,OK,Oklahoma,Bryan
+74734,Eagletown,OK,Oklahoma,McCurtain
+74735,Fort Towson,OK,Oklahoma,Choctaw
+74736,Garvin,OK,Oklahoma,McCurtain
+74738,Grant,OK,Oklahoma,Choctaw
+74740,Haworth,OK,Oklahoma,McCurtain
+74741,Hendrix,OK,Oklahoma,Bryan
+74743,Hugo,OK,Oklahoma,Choctaw
+74745,Idabel,OK,Oklahoma,McCurtain
+74747,Kemp,OK,Oklahoma,Bryan
+74748,Kenefic,OK,Oklahoma,Johnston
+74750,Millerton,OK,Oklahoma,McCurtain
+74753,Platter,OK,Oklahoma,Bryan
+74754,Ringold,OK,Oklahoma,McCurtain
+74755,Rufe,OK,Oklahoma,McCurtain
+74756,Sawyer,OK,Oklahoma,Choctaw
+74759,Soper,OK,Oklahoma,Choctaw
+74760,Spencerville,OK,Oklahoma,Choctaw
+74761,Swink,OK,Oklahoma,Choctaw
+74764,Valliant,OK,Oklahoma,McCurtain
+74766,Wright City,OK,Oklahoma,McCurtain
+74801,Shawnee,OK,Oklahoma,Pottawatomie
+74804,Shawnee,OK,Oklahoma,Pottawatomie
+74820,Ada,OK,Oklahoma,Pontotoc
+74824,Agra,OK,Oklahoma,Lincoln
+74825,Allen,OK,Oklahoma,Pontotoc
+74826,Asher,OK,Oklahoma,Pottawatomie
+74827,Atwood,OK,Oklahoma,Hughes
+74829,Boley,OK,Oklahoma,Okfuskee
+74830,Bowlegs,OK,Oklahoma,Seminole
+74831,Byars,OK,Oklahoma,McClain
+74832,Carney,OK,Oklahoma,Lincoln
+74833,Castle,OK,Oklahoma,Okfuskee
+74834,Chandler,OK,Oklahoma,Lincoln
+74836,Connerville,OK,Oklahoma,Johnston
+74837,Cromwell,OK,Oklahoma,Seminole
+74839,Dustin,OK,Oklahoma,Hughes
+74840,Earlsboro,OK,Oklahoma,Pottawatomie
+74842,Fittstown,OK,Oklahoma,Pontotoc
+74843,Fitzhugh,OK,Oklahoma,Pontotoc
+74844,Francis,OK,Oklahoma,Pontotoc
+74845,Hanna,OK,Oklahoma,McIntosh
+74848,Holdenville,OK,Oklahoma,Hughes
+74849,Konawa,OK,Oklahoma,Seminole
+74850,Lamar,OK,Oklahoma,Hughes
+74851,Mcloud,OK,Oklahoma,Pottawatomie
+74852,Macomb,OK,Oklahoma,Pottawatomie
+74854,Maud,OK,Oklahoma,Pottawatomie
+74855,Meeker,OK,Oklahoma,Lincoln
+74856,Mill Creek,OK,Oklahoma,Johnston
+74857,Newalla,OK,Oklahoma,Cleveland
+74859,Okemah,OK,Oklahoma,Okfuskee
+74860,Paden,OK,Oklahoma,Okfuskee
+74864,Prague,OK,Oklahoma,Lincoln
+74865,Roff,OK,Oklahoma,Pontotoc
+74867,Sasakwa,OK,Oklahoma,Seminole
+74868,Seminole,OK,Oklahoma,Seminole
+74869,Sparks,OK,Oklahoma,Lincoln
+74871,Stonewall,OK,Oklahoma,Pontotoc
+74872,Stratford,OK,Oklahoma,Garvin
+74873,Tecumseh,OK,Oklahoma,Pottawatomie
+74875,Tryon,OK,Oklahoma,Lincoln
+74878,Wanette,OK,Oklahoma,Pottawatomie
+74880,Weleetka,OK,Oklahoma,Okfuskee
+74881,Wellston,OK,Oklahoma,Lincoln
+74883,Wetumka,OK,Oklahoma,Hughes
+74884,Wewoka,OK,Oklahoma,Seminole
+74901,Arkoma,OK,Oklahoma,Le Flore
+74902,Pocola,OK,Oklahoma,Le Flore
+74930,Bokoshe,OK,Oklahoma,Le Flore
+74931,Bunch,OK,Oklahoma,Adair
+74932,Cameron,OK,Oklahoma,Le Flore
+74935,Fanshawe,OK,Oklahoma,Le Flore
+74936,Gans,OK,Oklahoma,Sequoyah
+74937,Heavener,OK,Oklahoma,Le Flore
+74939,Hodgen,OK,Oklahoma,Le Flore
+74940,Howe,OK,Oklahoma,Le Flore
+74941,Keota,OK,Oklahoma,Haskell
+74942,Leflore,OK,Oklahoma,Le Flore
+74943,Lequire,OK,Oklahoma,Haskell
+74944,Mccurtain,OK,Oklahoma,Haskell
+74945,Marble City,OK,Oklahoma,Sequoyah
+74946,Moffett,OK,Oklahoma,Sequoyah
+74948,Muldrow,OK,Oklahoma,Sequoyah
+74949,Muse,OK,Oklahoma,Le Flore
+74951,Panama,OK,Oklahoma,Le Flore
+74953,Poteau,OK,Oklahoma,Le Flore
+74954,Roland,OK,Oklahoma,Sequoyah
+74955,Sallisaw,OK,Oklahoma,Sequoyah
+74956,Shady Point,OK,Oklahoma,Le Flore
+74957,Smithville,OK,Oklahoma,McCurtain
+74959,Spiro,OK,Oklahoma,Le Flore
+74960,Stilwell,OK,Oklahoma,Adair
+74962,Vian,OK,Oklahoma,Sequoyah
+74963,Watson,OK,Oklahoma,McCurtain
+74964,Watts,OK,Oklahoma,Adair
+74965,Westville,OK,Oklahoma,Adair
+74966,Wister,OK,Oklahoma,Le Flore
